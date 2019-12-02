@@ -1,0 +1,8 @@
+{
+  "appId": "com.amamosComida.cozinhandoCasa",
+  "appName": "Cozinhando em Casa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
